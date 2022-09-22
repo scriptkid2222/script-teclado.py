@@ -1,0 +1,2 @@
+# script-teclado.py
+script
